@@ -2,7 +2,7 @@
 
 ### [Neil A. Gilbert](https://gilbertecology.com), [Davide M. Dominoni](https://www.davidedominoni.com/)
 
-### This paper is an invited Research Highlight for [Iannarilli et al. (2024), *A 'how-to' guide for estimating animal diel activity using hierarchical models*](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.14213). 
+This paper is an invited Research Highlight covering [Iannarilli et al. (2024), *A 'how-to' guide for estimating animal diel activity using hierarchical models*](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.14213). 
 
 
 
