@@ -12,5 +12,14 @@ Diel activity patterns are ubiquitous in living organisms and have received cons
 
 ## Repository Directory
 
+### [code](./code) 
+* [woth_analysis.R](./code/woth_analysis.R) Code to fit trigonometric GLMM to Wood Thrush vocal data from [BirdWeather](https://www.birdweather.com/)
 
+### [data](./data)
+* [woth.csv](./data/woth.csv) Wood Thrush data from BirdWeather. Relevant columns include "timestamp", "latitude", and "longitude"
+* [woth_sites_alan.csv](./data/woth_sites_alan.csv) Artificial light at night for station coordinates (from NASA VIIRS, extracted from Google Earth Engine)
+* [woth_sites.csv](./data/woth_sites.csv) Unique station coordinates (used to extract VIIRS data from Google Earth Engine)
 
+### [results](./results)
+* [woth_activity_pattern.png](./results/woth_activity_pattern.png) Marginal effects plot showing predicted activity pattern for Wood Thrush
+* [woth_m1_data.RData](./results/woth_m1_data.RData) Object containing fitted model and finalized data table used to fit model  
